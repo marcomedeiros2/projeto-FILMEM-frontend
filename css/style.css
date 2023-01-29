@@ -1,0 +1,113 @@
+#body {
+    background-color: rgb(24, 22, 22);
+    overflow-x: hidden;
+}
+
+
+
+.filmem-logo {
+    position: relative;
+    left: 38%;
+    bottom: 160px;
+    margin-bottom: 40px;
+}
+
+.barra-nav-horizontal, 
+.barra-nav-horizontal a {
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px;
+    position: relative;
+    bottom: 150px;
+    left: 12%;
+    font-size: 23px;
+}
+
+.barra-nav-horizontal a:hover {
+    color: black;
+    text-decoration: underline;
+    background-color: white;
+    transition: 0.8s;
+    border-radius: 7px;
+}
+
+
+#box-form-index {
+    position: relative;
+    left: 4%;
+    margin: 20px 0px 0px 0px;
+}
+
+#container-title-assista-a-filmes-e-series-totalmente-gratis {
+    position: relative;
+    bottom: 278px;
+}
+
+.container-text-1 {
+    color: white;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto, Ubuntu", sans-serif;
+    font-size: 64px;
+    text-align: center;
+    line-height: 70.4px;
+}
+
+.container-text-2 {
+    color: white;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto, Ubuntu", sans-serif;
+    font-size: 64px;
+    text-align: center;
+    line-height: 70.4px;
+}
+
+.container-text-3 {
+    color: white;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto, Ubuntu", sans-serif;
+    font-size: 26px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.pesquisar {
+    position: relative;
+    left: 22%;
+    bottom: 160px;
+}
+
+.label-cadastro-acesso-1 {
+    display: block;
+    font-size: 19px;
+    color: white;
+    position: relative;
+    left: 14%;
+    bottom: 30px;
+}
+
+.label-cadastro-acesso-input-1 {
+    background: white;
+    border: 1px solid white;
+    padding: 20px;
+    width: 500px;
+    position: relative;
+    right: 40px;
+}
+
+.button-pesquisar-cadastro {
+    position: relative;
+    background-color: #c2111a;
+    padding: 15px;
+    font-size: 26px;
+    width: 200px;
+    color: white;
+    border: red;
+    left: 37%;
+    top: 5px;
+    z-index: 1;
+    height: 61.6px;
+}
+
+.button-pesquisar-cadastro:hover {
+    background-color: #e50914;
+}
