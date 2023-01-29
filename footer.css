@@ -1,0 +1,55 @@
+footer {
+    float: left;
+    clear: both;
+    width: 100%;
+}
+
+#container-footer-form {
+    background-color: rgb(12, 12, 12);
+    width: 100%;
+    padding: 20px;
+    height: 80px;
+}
+
+.telephone-number {
+    text-decoration: none;
+    color: rgb(133, 119, 119);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.telephone-number:hover {
+    text-decoration: underline;
+}
+
+.duvidas-ligue {
+    position: relative;
+    bottom: 10px;
+    text-decoration: none;
+    color: rgb(133, 119, 119);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-form {
+    float: left;
+    padding: 20px;
+    margin: 0px 210px 0px 0px;
+}
+
+.space-link {
+   position: relative;
+   top: 10px;
+}
+
+.link-footer-form {
+    text-decoration: none;
+    color: rgb(133, 119, 119);
+    font-weight: 100px;
+}
+
+.link-footer-form:hover {
+    text-decoration: underline;
+    color: red;
+    transition: 1s;
+}
