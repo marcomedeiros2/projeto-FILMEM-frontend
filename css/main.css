@@ -1,0 +1,27 @@
+
+
+.mais-acessados {
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+.list-container-catalog {
+    float: left;
+    margin: 40px 50px 10px 60px;
+    position: relative;
+    left: 15px;
+}
+
+.list {
+    width: 200px;
+    height: 350px;
+}
+
+.list:hover {
+    opacity: 0.3;
+    transition: 1s;
+    background-color: black;
+}
